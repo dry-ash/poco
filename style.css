@@ -216,7 +216,7 @@ ul {
 .aloompa img {
   position: absolute;
   left: 0%;
-  width: 100%;
+  width: 50%;
   -webkit-transition: all .2s ease-out;
 }
 
@@ -227,7 +227,7 @@ ul {
 
 .aloompa:hover img {
   left: 5%;
-  width: 96%;
+  width: 75%;
 }
 
 /* MASHABLE */
