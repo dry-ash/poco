@@ -1183,8 +1183,8 @@ h2 {
 }
 .button {
   background-color: #eebbc3;
-  border: 5px, solid;
-  color: #fffffe;
+  border: 5px solid #fffffe;
+  color: #121629;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
